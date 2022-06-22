@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://aponsa:ramarara@devconnector.u58hk.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "1b8ed6df1cc8dea57f2f",
+    "githubSecret": "eff43dc120dda6e97911711528e0a967ff9d3754"
+}
